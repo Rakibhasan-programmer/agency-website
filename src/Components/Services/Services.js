@@ -54,7 +54,7 @@ const Services = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col sm={12} lg={4} className='py-4'>
+                    <Col sm={12} lg={4} className='pb-4'>
                         <Card className='p-4 text-center shadow'>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
@@ -65,7 +65,7 @@ const Services = () => {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col sm={12} lg={4} className='py-4'>
+                    <Col sm={12} lg={4}>
                         <Card className='p-4 text-center shadow'>
                             <Card.Body>
                                 <Card.Title>Card Title</Card.Title>
